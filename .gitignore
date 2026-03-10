@@ -1,0 +1,33 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# Spring Boot
+spring.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Build tools
+.mvn/wrapper/maven-wrapper.jar
+
+# Environment / local config
+.env
+.env.*
+*.local
